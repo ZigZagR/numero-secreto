@@ -14,5 +14,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://i.pinimg.com/736x/ca/2e/29/ca2e29877de44b773e136e7cb522f02b.jpg" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/ZigZagR/numero-secreto) |
-| :---: | :---: |
+| [<img loading="lazy" src="https://i.pinimg.com/736x/ca/2e/29/ca2e29877de44b773e136e7cb522f02b.jpg" width=115><br><sub>Zig</sub>](https://github.com/ZigZagR/numero-secreto) |
